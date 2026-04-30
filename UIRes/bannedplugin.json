@@ -115,7 +115,7 @@
   },
   {
     "Name": "TitleEdit",
-    "AssemblyVersion": "3.0.6.7",
+    "AssemblyVersion": "3.0.6.8",
     "Reason": "Hangs game during startup."
   },
   {
