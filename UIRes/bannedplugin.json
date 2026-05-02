@@ -598,5 +598,10 @@
     "Name": "BetterTargetingSystem",
     "AssemblyVersion": "0.15.2.0",
     "Reason": "Breaks tab targeting"
+  },
+  {
+    "Name": "NoPolice",
+    "AssemblyVersion": "1.0.0.5",
+    "Reason": "Hiding unintended player characters in portraits and cutscenes"
   }
 ]
